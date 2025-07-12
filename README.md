@@ -36,5 +36,5 @@ Türkiye Siparişleri: 1.378 işlem
 
 Toplam Sipariş Adedi: 178.312 adet işlem
 
-Ülke-Satış Grafiği: İlk 5 ülkenin satış hacmi (örneğin: United States, Australia, France)
+Ülke-Satış Grafiği: İlk 3 ülkenin satış hacmi (örneğin: United States, Australia, France)
 
