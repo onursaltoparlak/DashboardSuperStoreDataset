@@ -16,11 +16,13 @@ Bu proje, SuperStore veri setini kullanarak geliştirilen, C# ve Windows Forms t
 📎 Alt kısımda sosyal medya butonları ile arayüz desteği (örneğin: Gmail, Instagram, LinkedIn, WhatsApp, X, Telegram)
 
 ## 🧰 Kullanılan Teknolojiler
-Teknoloji	Açıklama
-C#	Uygulama dili
-Windows Forms	Masaüstü uygulama arayüzü
-Chart Controls	Grafiksel gösterimler
-SuperStore Dataset	Veri kaynağı
+C# ->	Uygulama dili
+
+Windows Forms -> Masaüstü uygulama arayüzü
+
+Chart Controls ->	Grafiksel gösterimler
+
+SuperStore Dataset ->	Veri kaynağı
 
 <img width="1614" height="770" alt="dashboard" src="https://github.com/user-attachments/assets/75b3934e-98cb-45bd-9ca9-4cdc7bd01d21" />
 
