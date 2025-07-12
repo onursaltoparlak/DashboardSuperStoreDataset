@@ -24,7 +24,7 @@ Chart Controls ->	Grafiksel gösterimler
 
 SuperStore Dataset ->	Veri kaynağı
 
-<img width="1614" height="770" alt="dashboard" src="https://github.com/user-attachments/assets/75b3934e-98cb-45bd-9ca9-4cdc7bd01d21" />
+<img width="1616" height="773" alt="dashboardd" src="https://github.com/user-attachments/assets/27bbf092-af6b-4133-b3d4-48d03d946fb7" />
 
 
 ## 📊 Ekran Görüntüsü Açıklaması
